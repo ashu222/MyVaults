@@ -89,6 +89,36 @@ A. Built-in Function: (68- Pre-defined)
   isinstance(3.71, (float,int,complex))
       ==> True           (because data type is float)
 
+3- Pow Function:  pow(x,y)   OR   pow(x,y,z)
+ 
+pow(3,4)
+    ==> 81
+
+pow(2,5,7)      """ 2*2*2*2*2/7 and reminder will return 4 """
+    ==> 4
+
+pow(3,4,6)     """ 81/6 = 78, reminder is 3
+    ==> 3
+
+pow(3.2, 4)    
+    ==> 104.8576.......
+
+pow(2+3j, 2)    """ pow will work for complex num as well """
+    ==> -5+12j
+
+a= pow(24,2,7)
+b= pow(24,3,7)
+c= pow(24,4,7)
+d= pow(24,5,7)
+print(a,b,c,d)
+    ==> 2 6 4 5
+
+print("reminder of a is" a=pow(24,2,7))
+print("reminder of b is" a=pow(24,3,7))
+print("reminder of c is" a=pow(24,4,7))
+print("reminder of d is" a=pow(24,5,7))
+    ==> 2 6 4 5
+
 
 -----------------------------------------------------------------------------------------------------------------------------
                     5th - Built-in Functions | Part 2
