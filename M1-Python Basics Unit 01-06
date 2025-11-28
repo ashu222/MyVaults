@@ -1,3 +1,5 @@
+                        4th Built-in Functions | Part 1
+
 2 Types of Python Functions:
 
 A. Built-in Function: (68- Pre-defined)
@@ -10,6 +12,8 @@ A. Built-in Function: (68- Pre-defined)
       round(b)
       ==> 5
 
+      print(round(4.123456789, 5)
+      ==> 4.12357
 
   2- Divmod
   3- 
