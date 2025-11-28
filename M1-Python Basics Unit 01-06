@@ -1,22 +1,48 @@
+* Unit 1
+                    How to use Jupyter
+______________________________________________________________________________________________________________________________
+                    1st - Introduction to Python
+-----------------------------------------------------------------------------------------------------------------------------
+                    2nd -Variables & operators | Part 1
+-----------------------------------------------------------------------------------------------------------------------------
+                    3rd -Variables & operators | Part 2
+______________________________________________________________________________________________________________________________
+* Unit 2 Assignment Explanation Video  
+
                     4th - Built-in Functions | Part 1
 
-2 Types of Python Functions:
+    2-Types of Python Functions:
 
-A. Built-in Function: (68- Pre-defined)
-  1- Round : (its round off post decimal)
+    A. Built-in Function: (68- Pre-defined)
+
+1- Round : (its round off post decimal)
       a= 4.33
       round(a)
-      ==> 4
+==> 4
 
       b= 4.66
       round(b)
-      ==> 5
+==> 5
 
-      print(round(4.123456789, 5)
-      ==> 4.12357
+      print(round(4.123456789, 5)    """6th Digit is 6 so 5th Digit will become 7"""
+      ==> 4.12357           
 
-  2- Divmod
-  3- 
+      Math= 75.82
+      Phy= 82.91
+      Chem= 67.23
+      print(round(Maths+Phy+Chem))    """ total will be 225.96 """
+==> 5226
+
+
+2- Divmod:  (its related with Division, provide Quotient & Reminder)
+
+divmod(27,5)     """ 27/5 -- Q=5 & R=2 """
+    ==> (5,2)    """ its in TUPPLE (its Variable with MULTIPLE Items) i.e. (.., .., ..,.. ,.. ,...) """
+
+
+3- 
+
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                     5th - Built-in Functions | Part 2
