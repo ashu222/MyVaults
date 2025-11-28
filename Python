@@ -1,1 +1,20 @@
-aa
+2 Types of Python Functions:
+
+A. Built-in Function: (68- Pre-defined)
+  1- Round : (its round off post decimal)
+      a= 4.33
+      round(a)
+      ==> 4
+
+      b= 4.66
+      round(b)
+      ==> 5
+
+
+  2- Divmod
+  3- 
+
+
+B. User Defined Function:
+  
+
