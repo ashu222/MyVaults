@@ -34,3 +34,21 @@ Even with GUI buttons, the underlying action is still inserting the special char
 	2. Click the corresponding icon (like B for bold).
 	3. The editor automatically inserts the Markdown syntax around your selected text (e.g., it changes Hello to **Hello**).
 <img width="641" height="651" alt="image" src="https://github.com/user-attachments/assets/3812b006-eb6a-4300-b876-68111890700b" />
+
+GIT URL-
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?versionId=free-pro-team%40latest&productId=get-started
+
+**This is bold text**
+
+_This text is italicized_
+
+~~This was mistaken text~~
+
+***All this text is important***
+
+This is a <sub>subscript</sub> text
+
+This is a <sup>superscript</sup> text
+
+This is an <ins>underlined</ins> text
+
