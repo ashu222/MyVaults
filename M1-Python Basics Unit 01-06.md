@@ -11,7 +11,7 @@
                     3rd -Variables & operators | Part 2
 
 ______________________________________________________________________________________________________________________________
-* Unit 2 Assignment Explanation Video  
+*** Unit 2 Assignment Explanation Video**
 
                     4th - Built-in Functions | Part 1
 
