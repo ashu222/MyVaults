@@ -89,7 +89,7 @@ A. Built-in Function: (68- Pre-defined)
   isinstance(3.71, (float,int,complex))
       ==> True           (because data type is float)
 
-3- Pow Function:  pow(x,y)   OR   pow(x,y,z)
+4- Pow Function:  pow(x,y)   OR   pow(x,y,z)
  
 pow(3,4)
     ==> 81
@@ -123,6 +123,37 @@ print("reminder of d is" a=pow(24,5,7))
 -----------------------------------------------------------------------------------------------------------------------------
                     5th - Built-in Functions | Part 2
 
+
+5-  Input Function:  (User often have need to interact with user, to get data or provide some result. This take Input from user and converts it into String)
+                      (String will be By Default, if we need data INT or FLOAT then we have to convert into another Data Type)
+                      
+inp = input('STATEMENT')
+
+    x = input("Enter the value")
+        ==> Enter the value [ 45 ]
+    print(x)
+        ==> 45
+    print(type(x))
+        ==> <class 'str'>      (so here 45 is String, not the Intiger, so we can not do any Matematical operation with 45)
+    x = int(x)    similary we can convert to FLOAT--  x = float(x)
+    print(x)
+    print(type(x))
+        ==> 45
+        ==> <class 'int'>
+    print(x-21)
+        ==> 24   (now we can do Math operation because X now converted to INT)
+
+    a= input("Math Mark ")
+    b= input("Phy Mark ")
+    c= input("Chem Mark ")
+    
+
+6- LEN Function:     (its returns the number of Items in an Object, if Object=String then len() function returns the Number of Characters in the string, list(data structure / set) etc, 
+                      but this can NOT(int, float etc) use all data types.)
+
+
+
+7- SORTED Function:
 
 ______________________________________________________________________________________________________________________________
 Unit 3 Assignment Explanation Video
